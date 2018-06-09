@@ -1,6 +1,7 @@
-# Running Deep Learning samples with docker and jupyter notebook
+# Deep Learning with docker and jupyter notebooks
 
-This forked repository contains Jupyter notebooks implementing the code samples found in the book [Deep Learning with Python (Manning Publications)](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff).
+This forked repository contains Jupyter notebooks implementing the code samples found in the book  
+[Deep Learning with Python (Manning Publications)](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff).
 
 ## Table of contents
 
